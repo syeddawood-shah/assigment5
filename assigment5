@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JACOB&CO</title>
+</head>
+<body style="background-color: rgb(97, 95, 204); text-align: center;">
+    <h1 style="color: gold;"><i>JACOB&CO</i></h1>
+    <p><b>LUXURY WATCHES AND AUTOMATION</b></p>
+    <h2><b>Our Collection</h2>
+    
+    
+<img src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800" alt="jacob&co1" width="400" height="300">
+<h3>jacob&co1</h3>
+<p>Experience the pinnacle of luxury with our exclusive collection of timepieces.</p>
+
+<img src= "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=800" alt="jacob&co2" width="400" height="300">
+<h3>jacob&co2</h3>
+<p>Discover the artistry and precision that define our brand, where every watch tells a story of elegance.</p>
+<img src="https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=800" alt="jacob&co3" width="400" height="300">
+<h3>jacob&co3</h3>
+<p>Indulge in the fusion of innovation and craftsmanship, as our watches embody the essence of sophistication.</p>
+
+<img src="https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=800" alt="jacob&co4" width="400" height="300">
+<h3>jacob&co4</h3>
+<p>Elevate your style with our meticulously designed timepieces, where luxury meets functionality in perfect harmony.</p>
+
+<img src="https://images.unsplash.com/photo-1558126319-c9feecbf57ee?w=800" alt="jacob&co5" width="400" height="300">
+<h3>jacob&co5</h3>
+<p>Immerse yourself in the world of horological excellence, where each watch is a testament to our commitment to quality and innovation.</p>
+
+<img src="https://media.gettyimages.com/id/183815517/photo/watch.jpg" alt="jacob&co6" width="400" height="300">
+<h3>jacob&co6</h3>
+<p>authentic craftsmanship meets contemporary design, creating timepieces that are as unique as the individuals who wear them.</p>
+
+<h2>Customer Registration</h2>
+<form>
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required><br><br>
+    
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required><br><br>
+    
+    <label for="phone">Phone:</label>
+    <input type="tel" id="phone" name="phone" required><br><br>
+    
+    <input type="submit" value="Register">
+</form>
+
+<h2>Contact Us</h2>
+<p>If you have any questions or inquiries, feel free to reach out to us:</p>
+<ul>
+    <li>Name: syed dawood </li>
+    <li>Email:syed.dawood.shahdc@gmail.com</li>
+    <li>Phone: 03121064320</li>
+    <li>Address: 123 Luxury Avenue, Geneva, Switzerland</li>
+</ul>
+</body>
+</html>
